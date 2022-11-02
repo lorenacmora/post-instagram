@@ -1,4 +1,4 @@
-body{
+body {
     background-color: black;
     margin: 0px;
     padding: 0px;
@@ -6,66 +6,70 @@ body{
     border-color: rgb(12, 12, 12);
     justify-content: center;
     width: 100%;
-   
+
 }
-.post{
+
+.post {
     width: 300px;
     height: 420px;
     background-color: rgb(250, 248, 248);
     margin: 0px auto;
-    padding: 0px;
-   
-    
+    margin-top: 240px;
+    padding: 0px auto;
+
+
 }
-.post-header 
-{
+
+.post-header {
 
     width: 280px;
     height: 30px;
-    padding-top:15px;
-    display:flex;
+    padding-top: 15px;
+    display: flex;
     justify-content: left;
     align-items: flex-end;
     position: relative;
-    
+
 }
-.logo{
+
+.logo {
     width: 160px;
     height: 30px;
-    padding:0px;
+    padding: 0px;
     justify-content: left;
     align-items: flex-end;
     position: absolute;
     margin-top: -40px;
-    
+
 }
-.logo h6{
+
+.logo h6 {
     width: 1px;
     height: 13px;
-    
-    
-    justify-content:right;
+
+
+    justify-content: right;
     align-items: top;
     position: absolute;
-    margin-top: -145px;   
+    margin-top: -145px;
     padding-top: 105px;
-    padding-left:35px;
-    
+    padding-left: 35px;
+
 }
-.logo-1
-{
+
+.logo-1 {
     width: 280px;
     height: 30px;
-    padding:opx;
-    justify-content:right;
-    align-items:center;
+    padding: opx;
+    justify-content: right;
+    align-items: center;
     position: absolute;
     margin: 278px;
     margin-top: -25px;
-    
+
 }
 
-.imagedog{
+.imagedog {
     height: 160px;
     width: 190px;
     margin: 0px auto;
@@ -74,40 +78,42 @@ body{
     align-items: center;
     padding-top: 8px;
     margin-top: 0px;
-    
-}
-.iconos
-{
-width: 280px;
-height: 30px;
-padding:5px;
-display:flex;
-justify-content: left;
-align-items: flex-end;
-position: relative;
 
 }
-.iconos-1{
+
+.iconos {
+    width: 280px;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+    position: relative;
+
+}
+
+.iconos-1 {
     width: 300px;
     height: 30px;
-    padding:0px;
-    display:inline-flex;
+    padding: 0px;
+    display: inline-flex;
     justify-content: right;
-    align-items:flex-end ;
+    align-items: flex-end;
     padding-left: 200px;
 }
-.contenido{
+
+.contenido {
     text-align: justify;
     margin-top: -25px;
     height: 170px;
     padding-top: 0px;
     position: relative;
 }
-.contenido p{
-    text-align: justify;
-    padding:opx;
-    position: absolute;
-    margin-top: -15px;   
-    padding:4px;
-}   
 
+.contenido p {
+    text-align: justify;
+    padding: opx;
+    position: absolute;
+    margin-top: -15px;
+    padding: 4px;
+}
